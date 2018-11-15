@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3015 389">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0f4ccb;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 66px;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-3 {
+        fill: #29d6b0;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #384b5f;
+        stroke-width: 15px;
+      }
+    </style>
+  </defs>
+  <g id="Group_299" data-name="Group 299" transform="translate(-3077 -388)">
+    <g id="Group_293" data-name="Group 293">
+      <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-1" cx="194.5" cy="194.5" r="194.5" transform="translate(3077 388)"/>
+      <text id="Research" class="cls-2" transform="translate(3135 608)"><tspan x="0" y="0">Research</tspan></text>
+    </g>
+    <g id="Group_294" data-name="Group 294" transform="translate(-16)">
+      <circle id="Ellipse_5" data-name="Ellipse 5" class="cls-3" cx="194.5" cy="194.5" r="194.5" transform="translate(3750 388)"/>
+      <text id="Analyze" class="cls-2" transform="translate(3826 608)"><tspan x="0" y="0">Analyze</tspan></text>
+    </g>
+    <g id="Group_295" data-name="Group 295" transform="translate(13)">
+      <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-1" cx="194.5" cy="194.5" r="194.5" transform="translate(4377 388)"/>
+      <text id="Design_" data-name="Design " class="cls-2" transform="translate(4463 608)"><tspan x="0" y="0">Design </tspan></text>
+    </g>
+    <g id="Group_296" data-name="Group 296" transform="translate(16)">
+      <circle id="Ellipse_7" data-name="Ellipse 7" class="cls-1" cx="194.5" cy="194.5" r="194.5" transform="translate(5031 388)"/>
+      <text id="User_Testing" data-name="User 
+Testing" class="cls-2" transform="translate(5226 565)"><tspan x="-75.233" y="0">User </tspan><tspan x="-109.699" y="87">Testing</tspan></text>
+    </g>
+    <g id="Group_298" data-name="Group 298" transform="translate(672)">
+      <circle id="Ellipse_7-2" data-name="Ellipse 7" class="cls-1" cx="194.5" cy="194.5" r="194.5" transform="translate(5031 388)"/>
+      <text id="Implement" class="cls-2" transform="translate(5068 608)"><tspan x="0" y="0">Implement</tspan></text>
+    </g>
+    <line id="Line_12" data-name="Line 12" class="cls-4" x2="220" transform="translate(3492.5 582.5)"/>
+    <line id="Line_13" data-name="Line 13" class="cls-4" x2="220" transform="translate(4145.5 582.5)"/>
+    <line id="Line_14" data-name="Line 14" class="cls-4" x2="220" transform="translate(4798.5 582.5)"/>
+    <line id="Line_15" data-name="Line 15" class="cls-4" x2="220" transform="translate(5451.5 582.5)"/>
+  </g>
+</svg>
